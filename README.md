@@ -32,3 +32,12 @@ Soutěž je zaměřena na:
 - JavaScript
 
 ## 📁 Struktura
+/assets
+/css
+/js
+/favicon
+index.html
+rules.html
+schedule.html
+evaluation.html
+prizes.html
